@@ -1,4 +1,4 @@
-package com.hakodzhak.final;
+package com.hakodzhak.tools;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;

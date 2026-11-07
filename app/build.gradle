@@ -2,10 +2,10 @@ plugins {
     id 'com.android.application'
 }
 android {
-    namespace "com.hakodzhak.final"
+    namespace "com.hakodzhak.tools"
     compileSdk 33
     defaultConfig {
-        applicationId "com.hakodzhak.final"
+        applicationId "com.hakodzhak.tools"
         minSdk 21
         targetSdk 33
         versionCode 1

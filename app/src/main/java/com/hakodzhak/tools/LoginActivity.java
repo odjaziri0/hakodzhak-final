@@ -1,4 +1,4 @@
-package com.hakodzhak.final;
+package com.hakodzhak.tools;
 import android.app.Activity;
 import android.content.Intent;
 import android.content.SharedPreferences;
