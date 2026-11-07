@@ -1,0 +1,17 @@
+plugins {
+    id 'com.android.application'
+}
+android {
+    namespace "com.hakodzhak.final"
+    compileSdk 33
+    defaultConfig {
+        applicationId "com.hakodzhak.final"
+        minSdk 21
+        targetSdk 33
+        versionCode 1
+        versionName "1.0"
+    }
+}
+dependencies {
+    implementation "androidx.appcompat:appcompat:1.6.1"
+}
